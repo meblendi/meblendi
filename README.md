@@ -1,6 +1,6 @@
 <div align='center'> 
   <img src='./01.png' style="width: 300px; height: 300px;" alt="Banner"/> 
-  <h1 style="color: red;">Meblendi</h1>
+  <h1 style="color: #3cb5fe; color: rgb(60, 181, 254);">Meblendi</h1>
 </div>
 <p>Full Stack Developer with over 6 years of experience in designing and implementing modern web applications. My core expertise lies in Frontend technologies, including React and Next.js, combined with strong Backend proficiency in Django and databases such as PostgreSQL and MySQL. I possess a strong ability to learn and adopt new tools and libraries, consistently striving to enhance code quality and user experience.</p>
 <h3>My Experties:</h3>
