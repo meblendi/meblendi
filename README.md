@@ -1,5 +1,5 @@
 <div align='center'> 
-  <img  style="width: 300px; height: 300px;" alt="Banner"/> 
+  <img src='./02.png' style="width: 300px; height: 300px;" alt="Banner"/> 
   <h1 style="color: #3cb5fe;">Meblendi</h1>
 </div>
 
