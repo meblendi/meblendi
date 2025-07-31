@@ -4,3 +4,4 @@
 <p>this is paragraph tag</p>
 </div>
 <h3>My Experties:</h3>
+<img src="https://skillicons.dev/icons?i=django,js,nextjs,react,git,github,html,css,tailwind,nginx,postman,postgres,mysql,vercel,py&theme=light&perline=5" alt="Languages"/>
