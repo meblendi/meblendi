@@ -4,7 +4,7 @@
 </div>
 
 # About Me:
-Full Stack Developer with over 6 years of experience in designing and implementing modern web applications. My core expertise lies in Frontend technologies, including React and Next.js, combined with strong Backend proficiency in Django and databases such as PostgreSQL and MySQL. I possess a strong ability to learn and adopt new tools and libraries, consistently striving to enhance code quality and user experience.
+Full Stack Developer with over 3 years of experience in designing and implementing modern web applications. My core expertise lies in Frontend technologies, including React and Next.js, combined with strong Backend proficiency in Django and databases such as PostgreSQL and MySQL. I possess a strong ability to learn and adopt new tools and libraries, consistently striving to enhance code quality and user experience.
 
 
 # Tech Stack:
